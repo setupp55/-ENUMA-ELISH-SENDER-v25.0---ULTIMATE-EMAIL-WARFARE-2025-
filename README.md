@@ -1,3 +1,6 @@
+
+GET FREE TOKEN DIRECT IN SITE : https://w3llstore.com/dashboard/buy-tool.php?id=7&product=enuma-elish-sender
+
 ⚔️ ENUMA ELISH SENDER v25.0 - ULTIMATE EMAIL WARFARE 2025 ⚔️
 
 The MOST POWERFUL Multi-Method Email Delivery System Ever Created! 🚀
@@ -9,10 +12,14 @@ The MOST POWERFUL Multi-Method Email Delivery System Ever Created! 🚀
 
 
 🗡️ 4 ADVANCED SENDING METHODS:
-   ✅ WEBSHELLS (WSO, LeafMailer, Marijuana, B374K, DAws, C99, R57, PHPMailer + More)
-   ✅ SMTP (Gmail, Office365, Outlook, Yahoo, Roundcube, Generic)
-   ✅ PHP MAILERS (Auto-detect 10+ shell types with AI)
-   ✅ API SERVICES (SendGrid, Mailgun, Brevo, AWS SES, Microsoft Graph, Gmail API)
+
+  1 ✅ WEBSHELLS (WSO, LeafMailer, Marijuana, B374K, DAws, C99, R57, PHPMailer + More)
+  
+  2 ✅ SMTP (Gmail, Office365, Outlook, Yahoo, Roundcube, Generic)
+  
+  3 ✅ PHP MAILERS (Auto-detect 10+ shell types with AI)
+  
+  4 ✅ API SERVICES (SendGrid, Mailgun, Brevo, AWS SES, Microsoft Graph, Gmail API)
 
 
 
