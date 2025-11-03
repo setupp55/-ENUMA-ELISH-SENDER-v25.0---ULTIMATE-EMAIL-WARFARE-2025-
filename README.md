@@ -40,7 +40,10 @@ The MOST POWERFUL Multi-Method Email Delivery System Ever Created! 🚀
 
 
 ⚡ ULTRA-FAST PERFORMANCE:
+
+
  1  ✅ Multi-Threading (1-200 threads)
+ 
  
  2  ✅ Proxy Rotation (HTTP/HTTPS/SOCKS4/SOCKS5)
  
